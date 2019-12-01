@@ -1,0 +1,26 @@
+response,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19
+1,30 - 39,Male,Software Developer,Microsoft Outlooke,,Google GSuite,,Microsoft Outlook,I don't like in-browser calendars because they slow down the whole system. Outlook is a dedicated app that runs on its own and is not relying on Java or Flash browser plugin.,Intermediate,4,3,4,5,5,4,3,"Can't think of any. Would really like to give it a try, especially the ""all meeting participants will be able to make the suggested times provided"".",
+2,18 - 29,Male,Data Scientist,Google GSuite,,Google GSuite,,Google GSuite,It's the one I'm most familiar with and it's very simple to use,Novice,2,4,5,4,4,4,3,It might be nice if you could specify that a specific person NEEDS to be available (ie: the CEO) if the filter is less than 100%,
+3,18 - 29,Male,Software Engineer,Microsoft Outlooke,N/A,Other,Apple Calendar,Other,Apple Calendar ,Expert,5,5,3,4,3,3,3,"There doesn't seem to be a separation between ""required"" and ""optional"" attendees. My concern is what if say 80% of the people who replied ""yes"" are optional attendees and most of the one's who said ""no"" were required?",I do like the idea of automation when it comes to this kind of scheduling instead of searching all around. I don't find that task particularly difficult however but would that option.
+4,18 - 29,Male,Product manager,Google GSuite,,Other,MacOS calendar,Google GSuite,"Very simple, aesthetically pleasing",Intermediate,3,3,4,4,3,4,4,N/A,N/A
+5,18 - 29,Male,Engineer,Google GSuite,,Google GSuite,,Google GSuite,GCal,Expert,3,3,4,4,3,4,4,,
+6,18 - 29,Male,Oil and Gas,Microsoft Outlooke,,Google GSuite,,Google GSuite,Easy to customize,Intermediate,5,4,4,4,4,4,4,,
+7,30 - 39,Female,IT Lead,Microsoft Outlooke,,Microsoft Outlook,,Other,Google Calendar,Expert,3,4,3,4,3,4,4,,
+8,30 - 39,Male,IT,Google GSuite,,Google GSuite,,Google GSuite,I am too used to it. I don't remember the time I was not using it.,Expert,4,3,3,4,4,4,4,,
+9,30 - 39,Male,Software Engineer,Microsoft Outlooke,,Microsoft Outlook,,Microsoft Outlook,"It takes care of all my calendar needs like scheduling meeting, tasks reminder, vacation",Expert,5,2,4,4,2,4,3,Nothing,No
+10,18 - 29,Female,technical analyst,Google GSuite,,Google GSuite,,Google GSuite,google calendar,Expert,3,1,3,3,3,3,3,,
+11,18 - 29,Male,Student/Free-lancer,Other,Default calendar on Android device (Galaxy S8),Other,Default calendar on Android device (Galaxy S8),Microsoft Outlook,Haven't used it much but found it convenient enough,Intermediate,4,3,4,4,1,4,4,,
+12,40 - 49,Male,data engineer,Microsoft Outlooke,,Microsoft Outlook,,Microsoft Outlook,google calendar,Intermediate,5,3,4,4,4,4,4,Maybe not needed for all meeting,
+13,18 - 29,Female,Planning Engineer,Microsoft Outlooke,,Google GSuite,,Microsoft Outlook,This is my working calendar. ,Intermediate,3,5,4,3,4,5,5,,
+14,30 - 39,Male,Software engineer,Google GSuite,,Microsoft Outlook,,Microsoft Outlook,It's easily arrangable and most frquently used.,Intermediate,4,2,5,5,5,5,5,Nope,Great idea to implement.
+15,30 - 39,Male,Working ,Microsoft Outlooke,,Microsoft Outlook,,Microsoft Outlook,Outlook calendar,Expert,5,5,5,4,5,5,5,,
+16,18 - 29,Female,Senior Product Manager,Microsoft Outlooke,,Google GSuite,,Google GSuite,It colorful and very easy to use. Plus all my personal things are google,Expert,5,5,5,5,5,5,5,n/a,This is 100 times easier to use. 
+17,65+,Female,Bookkeeper,Other,None,Other,Desk Calendar,Other,Easy ,Nonexistent,1,1,3,3,1,3,3,No,
+18,18 - 29,Male,software engineer,Google GSuite,,Google GSuite,,Google GSuite,I use Google first.,Novice,3,3,3,3,3,4,4,,
+19,30 - 39,Female,Programmer,Google GSuite,"(Gonna be honest, I mostly use Slack at work)",Google GSuite,,Google GSuite,It integrates tightly with email and Slack. I can easily see other people's calendars and book times at work.,Intermediate,3,1,3,3,1,2,2,"Because I'm a novice user on how Outlook does their scheduling, but I schedule in GMail all the time, I'm concerned that I wouldn't understand the mental model of what's happening with this scheduling routine. The lack of consistency would be hard for me to learn.",
+20,30 - 39,Female,Program Manager,Microsoft Outlooke,,Google GSuite,,Google GSuite,Mostly the internet integration. ,Expert,5,5,4,4,4,4,4,I need to know who can attend or be able to indicate who is mandatory ,Good job!
+21,30 - 39,Male,Teacher,Microsoft Outlook,,Microsoft Outlook,,Microsoft Outlook,Habit,Intermediate,5,2,3,4,4,4,4,,
+22,30 - 39,Male,IT manager,Google GSuite,n/a,Google GSuite,n/a,Google GSuite,n/a,Intermediate,3,2,3,3,3,3,3,n/a,n/a
+23,18 - 29,Male,student,Google GSuite,,Google GSuite,,Microsoft Outlook,windows 10,Novice,5,3,3,3,3,3,3,,
+24,30 - 39,Female,Web Projects Manager,Microsoft Outlook,,Microsoft Outlook,,Microsoft Outlook,easy to use and style,Expert,5,5,4,4,4,4,4,,
+25,50 - 64,Male,physician,Microsoft Outlook,,Google GSuite,,Google GSuite,shared calendar,Intermediate,4,3,3,4,3,3,3,Not enough explanation to really understand it. No wirefreame or image,
