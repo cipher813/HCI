@@ -1,0 +1,26 @@
+response,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14
+1,Other,Project Manager,18 - 29,Male,North America,Novice,None,4,4,4,4,4,,
+2,Student,,18 - 29,Male,North America,Novice,None,4,4,4,2,4,The prototype could use a help button that takes the user to a page explaining jargon and suggesting good values for each combo box.,
+3,Cloud Solution Engineer,,30 - 39,Male,North America,Intermediate,None,4,4,4,4,4,,
+4,Software Engineer,,18 - 29,Male,North America,Intermediate,1-5,4,4,4,4,4,"For the preconfigured templates, it wasn't clear to me if they were user preconfigured or preconfigured by AWS. If it is the latter, it will be useful to get more detailed info about what's unique for a particular preconfigured template in a pop-up or something.",None
+5,Software Engineer,,18 - 29,Female,North America,Novice,1-5,4,5,4,4,4,,
+6,Software Engineer,,30 - 39,Female,North America,Novice,1-5,4,4,4,4,4,,
+7,Software Engineer,,30 - 39,Male,North America,Intermediate,1-5,5,5,5,5,5,help icons to get more information on items,
+8,Other,Controls Engineer,18 - 29,Male,North America,Novice,None,3,3,3,3,3,,
+9,Other,IT Auditor,18 - 29,Male,North America,Nonexistent,None,3,3,3,3,3,n/a,n/a
+10,Software Engineer,,18 - 29,Male,North America,Intermediate,6-10,2,2,3,3,2,"There's too many drop downs in one screen, too much overload. No guiding texts or explanations. Work on this aspect to help educate users in logical sections.",
+11,Software Engineer,,30 - 39,Male,North America,Novice,None,3,4,4,4,3,,
+12,Student,,30 - 39,Male,Middle East,Novice,1-5,4,4,4,3,4,,
+13,Software Engineer,,18 - 29,Male,North America,Intermediate,None,4,4,5,3,3,It seems like there's still a lot of configuration options I need to be able to set.  What image gets spun up? How do I want networking set up? ,"Its good, but I think the custom templates need more customization options."
+14,Other,Analyst,30 - 39,Female,North America,Novice,1-5,3,4,4,4,4,,
+15,Software Engineer,,18 - 29,Male,North America,Intermediate,6-10,4,4,4,4,4,Needs somewhere to get up ssh keys.,You should probably look at Elastic Beanstalk. It provides a similar interface.
+16,Cloud Solution Engineer,,18 - 29,Female,North America,Intermediate,16+,4,4,3,3,4,,
+17,Other,Nuclear Engineer ,30 - 39,Male,North America,Nonexistent,None,3,4,4,4,4,,
+18,Other,Cyber Security Management,18 - 29,Male,North America,Novice,1-5,3,3,3,3,4,"No frame of reference really, sorry!",Nice work! High quality for sure. Wish I could provide better feedback!
+19,Software Engineer,,30 - 39,Male,India,Novice,None,4,4,4,3,4,,
+20,Software Engineer,,18 - 29,Male,North America,Novice,None,4,4,4,3,4,N/A,N/A
+21,Software Engineer,,18 - 29,Male,North America,Novice,1-5,3,3,3,3,3,,
+22,Software Engineer,,40 - 49,Male,North America,Novice,None,4,5,5,5,4,na,na
+23,Software Engineer,,30 - 39,Male,North America,Nonexistent,None,3,3,3,3,3,,
+24,Software Engineer,,18 - 29,Male,North America,Novice,6-10,4,4,3,4,4,,
+25,Student,,18 - 29,Female,Asia Pacific,Novice,1-5,4,4,4,4,4,,

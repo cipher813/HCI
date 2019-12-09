@@ -1,0 +1,26 @@
+response,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14
+1,Software Engineer,,18 - 29,Male,North America,Intermediate,1-5,4,4,4,4,4,More detailed info about what each of the options mean in a pop-up ,
+2,Cloud Solution Engineer,n/a,30 - 39,Male,North America,Intermediate,None,3,3,4,3,4,it is not a bad prototype,no
+3,Software Engineer,,30 - 39,Female,North America,Novice,1-5,4,4,4,4,4,,
+4,Software Engineer,,18 - 29,Male,Europe,Intermediate,1-5,4,4,5,2,4,I would say show the number of steps (e.g. step 2 of 5) instead of a percentage. ,It would be great to list out the individual stages in a timeline somewhere on the screen.
+5,Software Engineer,,30 - 39,Male,North America,Intermediate,None,4,4,4,4,4,Help icons. Examples of pricing differences.,
+6,Student,,18 - 29,Male,North America,Novice,None,4,4,4,2,4,You should have an option at the beginning of the wizard allowing the user to set up a custom EC2 instance so that expert users have more control.,
+7,Software Engineer,,18 - 29,Male,North America,Intermediate,None,5,4,5,3,4,"This is a good redesign effort.  I think its much more accessible than the current interface.  It also doesnt give you quite as much information, so I think that those extra details such as instance ID should be accessible.",
+8,Other,Network Engineer,40 - 49,Male,North America,Novice,1-5,4,4,4,4,4,,
+9,Student,,30 - 39,Male,Middle East,Novice,1-5,3,4,4,4,4,,
+10,Other,Analyst,30 - 39,Female,North America,Novice,1-5,4,4,4,4,4,,
+11,Cloud Solution Engineer,,18 - 29,Female,North America,Intermediate,16+,3,4,4,2,3,"cloudformation lets us customize a lot, not just services, but network too. May be you can include them(if I haven't missed)",
+12,Software Engineer,,30 - 39,Male,North America,Novice,None,4,4,4,4,4,,
+13,Other,Cyber Security Manager,18 - 29,Male,North America,Novice,1-5,4,4,4,4,5,I like this prototype a lot more than the first one of yours I saw. Great work!,
+14,Software Engineer,,30 - 39,Male,India,Novice,None,4,4,4,4,4,,
+15,Software Engineer,,18 - 29,Male,North America,Intermediate,16+,5,5,5,3,5,"I did not see anything about cost, unless i missed that..",
+16,Data Analyst,,18 - 29,Male,Asia Pacific,Intermediate,1-5,3,3,1,2,2,"AWS is targeting a highly technical audience, the basic functions need no need to be simplier as they are taught in tutorials. It is the smaller things that needs to be improved, like setting up domains etc",
+17,Software Engineer,,30 - 39,Male,North America,Novice,6-10,4,4,4,2,4,Give options to do advance features.,
+18,Software Engineer,,40 - 49,Male,North America,Novice,None,4,5,5,5,5,na,na
+19,Software Engineer,,30 - 39,Male,North America,Nonexistent,None,3,3,3,3,3,,
+20,Other,,18 - 29,Male,North America,Nonexistent,None,3,3,3,3,3,,
+21,Software Engineer,,18 - 29,Male,North America,Novice,1-5,4,4,4,4,4,,
+22,Data Scientist,,18 - 29,Male,North America,Novice,None,4,4,4,4,4,,
+23,Student,,18 - 29,Female,Asia Pacific,Novice,1-5,4,4,5,4,4,,
+24,Software Engineer,,18 - 29,Male,Middle East,Novice,6-10,4,4,3,4,3,,
+
